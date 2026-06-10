@@ -1,1 +1,5 @@
-# agrinho
+**AgroForte** é um projeto web desenvolvido com HTML, CSS e JavaScript, voltado para a promoção de práticas agrícolas sustentáveis e a conscientização sobre a importância de equilibrar produtividade e preservação ambiental. O site oferece uma experiência interativa, com conteúdos educativos, gráficos dinâmicos e simulações que ajudam os usuários a compreenderem o impacto de diferentes técnicas agrícolas no meio ambiente. Além disso, apresenta dicas de boas práticas, recursos visuais e animações que tornam a navegação envolvente e intuitiva, reforçando a conexão entre tecnologia, produção e sustentabilidade.
+
+O projeto foi pensado para atender tanto estudantes e profissionais do setor agropecuário quanto o público geral interessado em sustentabilidade, mostrando como é possível ter uma agricultura forte sem comprometer os recursos naturais. Através de seu design responsivo, o **AgroForte** garante acessibilidade em dispositivos móveis e desktops, facilitando o acesso à informação e incentivando a adoção de práticas responsáveis.
+
+Com foco em educação e conscientização, o **AgroForte** busca inspirar produtores e comunidades a refletirem sobre o futuro do agro, promovendo um modelo produtivo que respeita o meio ambiente e contribui para um futuro sustentável, equilibrando desenvolvimento econômico e preservação ecológica.
